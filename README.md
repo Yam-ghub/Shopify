@@ -48,8 +48,6 @@ Cut through the noise. This dashboard isolates **Transactional Performance**, **
 2. **Transform** – Power Query cleans, normalizes, and stitches tables.  
 3. **Model** – Star-schema in Power BI; DAX measures for every KPI above.  
 4. **Visualize** – Custom map visuals, dynamic tooltips, drill-through tabs.  
-5. **Refresh** – Scheduled in Power BI Service; no manual touch required.
 
-Folder layout:
 
 
