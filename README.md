@@ -1,7 +1,3 @@
-Here’s a refined version of your **Shopify Performance Dashboard** documentation, inspired by the structure and clarity of the Manufacturing Dashboard submission while preserving your original intent and KPIs:
-
----
-
 # **Shopify Performance Dashboard**  
 *Data-Driven Insights for Revenue, Customer Behavior, and Retention*  
 
