@@ -8,7 +8,7 @@
 ---
 
 ## 🎥 **Demo & Preview**  
-![Dashboard Walkthrough](Images/Shopify_Dashboard_GIF.gif)  
+![Dashboard Walkthrough](https://www.youtube.com/watch?v=CcS1fsuT10M)  
 
 ## ✨ **Dashboard Overview**  
 
