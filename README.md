@@ -8,7 +8,7 @@
 ---
 
 ## 🎥 **Demo & Preview**  
-![Dashboard Walkthrough](https://www.youtube.com/watch?v=CcS1fsuT10M)  
+*[Full Video Walkthrough]([https://youtu.be/your-link-here](https://www.youtube.com/watch?v=CcS1fsuT10M))*  
 
 ## ✨ **Dashboard Overview**  
 
