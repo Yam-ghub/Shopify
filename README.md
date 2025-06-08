@@ -1,53 +1,55 @@
-# Shopify Performance Dashboard
+Shopify Performance Dashboard
+Data-Driven Insights for Revenue, Customer Behavior, and Retention
 
-> **TL;DR** – An interactive Power BI solution that turns ~10 k rows of Shopify data into a razor-sharp command center for revenue, customers, and retention.
+https://Images/Shopify_Dashboard_Preview.png
+A Power BI dashboard analyzing transactional performance, customer segmentation, and loyalty drivers to optimize Shopify store operations.
 
----
+✨ Dashboard Overview
+Section	Key Focus
+Revenue & Volume	Net sales, order volume, and average order value trends.
+Customer Mix	Breakdown of single-order vs. repeat buyers and regional performance.
+Value & Loyalty	Lifetime value (LTV), repeat rates, and purchase depth to gauge retention.
+Payment & Product Analysis	Gateway performance and product-type contribution to sales.
+📊 Core KPIs
+Metric	Why It Matters
+Net Sales	Total revenue after refunds/discounts—core health metric.
+Avg Order Value (AOV)	Revenue per transaction; identifies upsell opportunities.
+Repeat Customer Rate	% of customers with >1 order; measures loyalty.
+Lifetime Value (LTV)	Predicts long-term revenue per customer to justify acquisition costs.
+Payment Gateway Split	Reveals fee inefficiencies (e.g., PayPal vs. Shopify Payments).
+🛠️ Tech Stack
+Tool	Use Case
+Power BI Desktop	Data modeling, DAX measures, and interactive visualizations.
+Power Query	Cleansing raw Shopify CSV exports (orders, customers, products).
+DAX Formulas	Dynamic calculations (e.g., rolling LTV, YoY growth).
+Custom Visuals	U.S. map for regional drill-downs, Pareto charts for product analysis.
+🔥 Key Insights & Interactions
+1. Regional Performance
+Clickable U.S. map filters all visuals by state/city to isolate top markets.
 
-## 1 • Purpose
+Why it matters: Identifies underperforming regions for targeted campaigns.
 
-Cut through the noise. This dashboard isolates **Transactional Performance**, **Customer Purchase Behavior**, and **Retention & Value KPIs** so stakeholders see exactly what drives profit – and nothing else.
+2. Time-Series Trends
+Hourly/daily sales trends with granularity toggle to pinpoint demand spikes.
 
----
+Why it matters: Optimize ad spend and staffing around peak hours.
 
-## 2 • Core KPIs
+3. Payment Gateway Efficiency
+Net sales split by gateway (Shopify Payments, PayPal, etc.).
 
-| Revenue & Volume | Customer Mix | Value & Loyalty |
-|------------------|--------------|-----------------|
-| **Net Sales** | **Total Customers** | **Lifetime Value** |
-| **Total Quantity** | **Single-Order Customers** | **Repeat Rate** |
-| **Net Avg Order Value** | **Repeat Customers** | **Purchase History Depth** |
+Why it matters: Highlights fee-heavy gateways eroding margins.
 
----
+4. Product-Type Pareto Analysis
+Top 20% of product types driving 80% of sales (shaded for emphasis).
 
-## 3 • Key Interactions
+Why it matters: Double down on high-impact SKUs; reevaluate low performers.
 
-| Feature | What It Does | Why It Matters |
-|---------|--------------|----------------|
-| **Regional Overview** | Click a province or city on the U.S. map to auto-filter every visual (KPIs, tables, trends) for that location. | Pinpoints high-performing markets or problem areas in seconds. |
-| **Time-Series Trend** | Net Sales trending by **hour** and **day** with dynamic granularity toggle. | Exposes precise sales surges and dead zones for smarter promo timing. |
-| **Payment Gateway Split** | Slice Net Sales by gateway (Shopify Payments, PayPal, Gift Card, etc.). | Reveals which channels convert best and where fees eat margin. |
-| **Drill-Through to Detail** | Right-click any chart element to open a detail tab; export the filtered records to CSV. | Gives analysts and execs instant, clean data pulls—no SQL needed. |
-| **Product-Type Lens** | Net Sales ranked by Product Type with ABC Pareto shading. | Spot product lines that punch above (or below) their weight. |
+5. Drill-Through Details
+Right-click any visual to access transaction-level data or export to CSV.
 
----
+Why it matters: Self-service analytics without SQL queries.
 
-## 4 • Live Preview
-
-> ![Dashboard Screenshot](images/dashboard-preview.png)  
-> *Replace with your actual PNG or GIF.*
-
-### Video Walkthrough  
-🎥 **[Watch the 3-Minute Demo](https://youtu.be/your-video-link)** *(swap in your link)*
-
----
-
-## 5 • How It Works
-
-1. **Extract** – Raw Shopify CSV exports (Orders, Customers, Products).  
-2. **Transform** – Power Query cleans, normalizes, and stitches tables.  
-3. **Model** – Star-schema in Power BI; DAX measures for every KPI above.  
-4. **Visualize** – Custom map visuals, dynamic tooltips, drill-through tabs.  
-
-
+🎥 Demo & Preview
+https://Images/Shopify_Dashboard_GIF.gif
+Full Video Walkthrough
 
