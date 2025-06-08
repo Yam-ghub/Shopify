@@ -8,7 +8,8 @@
 ---
 
 ## 🎥 **Demo & Preview**  
-*[Full Video Walkthrough]([https://youtu.be/your-link-here](https://www.youtube.com/watch?v=CcS1fsuT10M))*  
+[![Dashboard Walkthrough](images/Shopify_Analysis_Dashboard.png)](https://www.youtube.com/watch?v=CcS1fsuT10M)  
+*(Click image to watch full demo)*
 
 ## ✨ **Dashboard Overview**  
 
