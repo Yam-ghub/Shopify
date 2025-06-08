@@ -1,5 +1,16 @@
 # **Shopify Performance Dashboard**  
-*Data-Driven Insights for Revenue, Customer Behavior, and Retention*  
+
+## 📌 Purpose of the Project
+
+This project delivers a **dynamic Power BI dashboard** designed to analyze Shopify sales and customer report data through a **self-service analytics** approach—no SQL required.
+
+The workflow is centered around familiar and accessible tools:
+
+* **Excel** is used for initial data exploration and analysis.
+* **Power Query** handles the transformation and cleaning of raw Shopify CSV exports (orders, customers, products).
+* **Power BI** brings the data to life with interactive visualizations, letting users explore key KPIs like Net Sales, AOV, Repeat Rates, and LTV.
+
+The goal is to **democratize data access**—giving business users, marketers, and analysts the power to uncover insights, filter by region or product type, and make data-driven decisions in real time.
 
 ## 🎥 **Demo & Preview**  
 
@@ -67,3 +78,4 @@
 - *Why it matters*: Self-service analytics without SQL queries.  
 
 ---
+Main Purpose of this project
