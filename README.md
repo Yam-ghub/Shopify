@@ -1,13 +1,12 @@
 # **Shopify Performance Dashboard**  
 *Data-Driven Insights for Revenue, Customer Behavior, and Retention*  
 
+## 🎥 **Demo & Preview**  
+
 <img src="images/Shopify_Analysis_Dashboard.png" alt="Dashboard Preview" style="width:100%; max-width:800px;"/>
 <img src="images/Details_Dashboard.png" alt="Dashboard Preview" style="width:100%; max-width:800px;"/>
 *A Power BI dashboard analyzing transactional performance, customer segmentation, and loyalty drivers to optimize Shopify store operations.*  
 
----
-
-## 🎥 **Demo & Preview**  
 [Dashboard Walkthrough](https://youtu.be/bOe8ataoOHs)  
 *(Click image to watch full demo)* 
 
