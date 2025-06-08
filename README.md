@@ -5,7 +5,7 @@ Here’s a refined version of your **Shopify Performance Dashboard** documentati
 # **Shopify Performance Dashboard**  
 *Data-Driven Insights for Revenue, Customer Behavior, and Retention*  
 
-![Dashboard Overview](Images/Shopify_Analysis_Dashboard.png)  
+![Dashboard Overview](images/Shopify_Analysis_Dashboard.png)  
 *A Power BI dashboard analyzing transactional performance, customer segmentation, and loyalty drivers to optimize Shopify store operations.*  
 
 ---
