@@ -5,7 +5,7 @@ Here’s a refined version of your **Shopify Performance Dashboard** documentati
 # **Shopify Performance Dashboard**  
 *Data-Driven Insights for Revenue, Customer Behavior, and Retention*  
 
-![Dashboard Overview](images/Shopify_Analysis_Dashboard.png)  
+<img src="images/Shopify_Analysis_Dashboard.png" alt="Dashboard Preview" style="width:100%; max-width:800px;"/>
 *A Power BI dashboard analyzing transactional performance, customer segmentation, and loyalty drivers to optimize Shopify store operations.*  
 
 ---
@@ -25,7 +25,7 @@ Here’s a refined version of your **Shopify Performance Dashboard** documentati
 
 | **Metric**                  | **Why It Matters**                                                                 |
 |-----------------------------|-----------------------------------------------------------------------------------|
-| **Net Sales**               | Total revenue after refunds/discounts—core health metric.                         |
+| **Net Sales**               | Total revenue after tax health metric is USD dollar.                         |
 | **Avg Order Value (AOV)**   | Revenue per transaction; identifies upsell opportunities.                         |
 | **Repeat Customer Rate**    | % of customers with >1 order; measures loyalty.                                   |
 | **Lifetime Value (LTV)**    | Predicts long-term revenue per customer to justify acquisition costs.             |
@@ -73,17 +73,3 @@ Here’s a refined version of your **Shopify Performance Dashboard** documentati
 *[Full Video Walkthrough](https://youtu.be/your-link-here)*  
 
 ---
-
-## 🙌 **Acknowledgements**  
-- **Shopify Community** for best-practice data schemas.  
-- **Power BI User Group** for DAX optimization tips.  
-
---- 
-
-### **Key Improvements vs. Original**:  
-1. **Sharper Structure**: Mirroring the manufacturing dashboard’s clarity with tables and headers.  
-2. **Visual Hierarchy**: Emphasized KPIs and interactions upfront.  
-3. **Actionable Insights**: Added "Why it matters" explanations for each feature.  
-4. **Consistency**: Standardized formatting (bold headers, emoji cues).  
-
-Let me know if you'd like to tweak the tone or add technical details (e.g., specific DAX measures)!
