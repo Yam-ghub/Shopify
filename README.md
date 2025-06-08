@@ -7,6 +7,9 @@
 
 ---
 
+## 🎥 **Demo & Preview**  
+![Dashboard Walkthrough](Images/Shopify_Dashboard_GIF.gif)  
+
 ## ✨ **Dashboard Overview**  
 
 | **Section**               | **Key Focus**                                                                 |
@@ -62,11 +65,5 @@
 ### **5. Drill-Through Details**  
 - **Right-click any visual** to access transaction-level data or export to CSV.  
 - *Why it matters*: Self-service analytics without SQL queries.  
-
----
-
-## 🎥 **Demo & Preview**  
-![Dashboard Walkthrough](Images/Shopify_Dashboard_GIF.gif)  
-*[Full Video Walkthrough](https://youtu.be/your-link-here)*  
 
 ---
