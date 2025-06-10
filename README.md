@@ -78,4 +78,3 @@ The goal is to **democratize data access**—giving business users, marketers, a
 - *Why it matters*: Self-service analytics without SQL queries.  
 
 ---
-Main Purpose of this project
